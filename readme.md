@@ -1,15 +1,17 @@
-Why did you choose this subject?
-How were you first made aware of it?
-What problem does it solve?
-How does it solve the problem (conceptually)?
-Why does one use it?
-What are the alternatives?
-What is it similar to, if anything?
-What is the history of this technology?
-Who built it and why?
-Who is maintaining it?
-What is your opinion on the technology after having built something with it?
-What are the biggest conceptual hurdles (if any) you encountered when researching this?
-What resources do you recommend for interested students?
-What article or forum was most helpful to you in learning this?
-What are 3 interview questions one might be asked about this technology?
+- Why did you choose this subject? I've wanted to learn Python for a while now.  I even brought 2 books to go through today.
+  - How were you first made aware of it? Friends of mine are computer/cyber/dev types and they reccommended Python as a good language to learn that is easily accessible with a pretty easy learning curve compared ot other languages.
+- What problem does it solve?
+  - How does it solve the problem (conceptually)?
+- Why does one use it?
+  - What are the alternatives?
+  - What is it similar to, if anything?
+- What is the history of this technology?
+  - Python was conceived in the late 1980s and its implementation was started in December 1989 by Guido van Rossum at CWI in the Netherlands as a successor to the ABC programming language capable of exception handling and interfacing with the Amoeba operating system.[3] Python was named for the BBC TV show Monty Python's Flying Circus. Van Rossum is Python's principal author, and his continuing central role in deciding the direction of Python is reflected in the title given to him by the Python community, Benevolent Dictator for Life (BDFL).
+- What is your opinion on the technology after having built something with it?
+  - I can't wait to learn more!
+- What are the biggest conceptual hurdles (if any) you encountered when researching this?
+  - What to do...Python alone is very powerful but very easy to use; I spent the most time using Django.
+- What resources do you recommend for interested students?
+  - What article or forum was most helpful to you in learning this?
+- What are 3 interview questions one might be asked about this technology?
+ 
